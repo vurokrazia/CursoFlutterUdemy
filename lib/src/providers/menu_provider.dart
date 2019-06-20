@@ -17,5 +17,4 @@ class _MenuProvider {
         return opciones;
     }
 }
-
 final menuProvider = new _MenuProvider();
